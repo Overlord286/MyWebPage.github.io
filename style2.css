@@ -97,6 +97,7 @@ section h4 {
     background-image: url(result3.gif);
     height: 15vw;
     min-height: 100px;
+    background-size: contain;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
