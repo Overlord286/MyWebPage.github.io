@@ -94,7 +94,7 @@ section h4 {
 }
 
 .banner {
-    background-image: url(../Video/Gif/result3.gif);
+    background-image: url("result3.gif");
     height: 15vw;
     min-height: 100px;
     background-repeat: no-repeat;
